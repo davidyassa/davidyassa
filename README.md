@@ -142,7 +142,7 @@ Planning covers workflow mapping, structured inputs and outputs, contract-term e
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=davidyassa)](https://github.com/pranesh-2005/github-readme-stats-fast) [![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=davidyassa)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=davidyassa&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast) [![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=davidyassa&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </div>
 
 ---
